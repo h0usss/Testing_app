@@ -1,0 +1,6 @@
+2024/11/06-21:30:45.826 5f10 Reusing MANIFEST C:\Users\nikit\Работы\Study\МИСПИС\TestingApp\bin\Debug\TestingApp.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/06-21:30:45.826 5f10 Recovering log #3
+2024/11/06-21:30:45.844 5f10 Reusing old log C:\Users\nikit\Работы\Study\МИСПИС\TestingApp\bin\Debug\TestingApp.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/11/06-21:30:55.506 5f10 Level-0 table #5: started
+2024/11/06-21:30:55.526 5f10 Level-0 table #5: 1219597 bytes OK
+2024/11/06-21:30:55.529 5f10 Delete type=0 #3
